@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">เข้าใช้งาน</string>
+    <string name="register">ลงทะเบียน</string>
+    <string name="name">กรุณาใส่ ชื่อ นามสกุล</string>
+    <string name="email">กรุณาใส่ email ที่ลงทะเบียนไว้</string>
+    <string name="email_register">กรุณาใส่ email</string>
+    <string name="username">กรุณาใส่ ชื่อล็อกอิน</string>
+    <string name="password">กรุณาใส่ รหัสผ่าน</string>
+    <string name="confirmpassword">กรุณายืนยัน รหัสผ่าน</string>
+    <string name="welcome">ยินดีต้อนรับ</string>
+    <string name="exit">กดปุ่ม back เพื่อออก</string>
+
+</resources>
